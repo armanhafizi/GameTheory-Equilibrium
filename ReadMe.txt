@@ -1,0 +1,1 @@
+The code finds the pure equilibriums and a mixed one using LP maximum and LP minimum in a dual-player game. Feel free to contact me for more information.
